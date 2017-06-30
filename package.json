@@ -1,0 +1,22 @@
+{
+    "name": "vscode-theme-railscasts-plus",
+    "displayName": "RailsCasts Plus Theme",
+    "description": "A theme extension for Visual Studio Code based on RailsCasts.",
+    "version": "0.0.1",
+    "publisher": "marlosirapuan",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "RailsCasts Plus Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/RailsCasts Plus Theme-color-theme.json"
+            }
+        ]
+    }
+}
