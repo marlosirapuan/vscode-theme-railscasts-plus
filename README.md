@@ -1,8 +1,8 @@
 # RailsCasts Plus Theme
 ## A theme extension for Visual Studio Code based on RailsCasts.  
 
-[![Version](http://vsmarketplacebadge.apphb.com/version/marlosirapuan.vscode-theme-railscasts-plus.svg)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.vscode-theme-railscasts-plus)
-[![Installs](http://vsmarketplacebadge.apphb.com/installs/marlosirapuan.vscode-theme-railscasts-plus.svg)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.vscode-theme-railscasts-plus)
+[![Version](https://vsmarketplacebadge.apphb.com/version/marlosirapuan.vscode-theme-railscasts-plus.svg)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.vscode-theme-railscasts-plus)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/marlosirapuan.vscode-theme-railscasts-plus.svg)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.vscode-theme-railscasts-plus)
 
 ### Changelog
 
