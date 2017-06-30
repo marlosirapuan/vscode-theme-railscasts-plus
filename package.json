@@ -4,6 +4,14 @@
     "description": "A theme extension for Visual Studio Code based on RailsCasts.",
     "version": "0.0.1",
     "publisher": "marlosirapuan",
+    "bugs": {
+        "url": "https://github.com/marlosirapuan/OneDark-Pro/issues"
+    },
+    "homepage": "https://github.com/marlosirapuan/vscode-theme-railscasts-plus/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marlosirapuan/vscode-theme-railscasts-plus"
+    },
     "engines": {
         "vscode": "^1.13.0"
     },
