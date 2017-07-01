@@ -4,7 +4,7 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/marlosirapuan.vscode-theme-railscasts-plus.svg)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.vscode-theme-railscasts-plus)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/marlosirapuan.vscode-theme-railscasts-plus.svg)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.vscode-theme-railscasts-plus)
 
-### How install  
+### How install
 Press `CTRL/CMD+P` and run `ext install vscode-theme-railscasts-plus`
 
 ### Changelog
