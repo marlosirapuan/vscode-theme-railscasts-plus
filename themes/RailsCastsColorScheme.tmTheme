@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
   <key>author</key>
-  <string>Dmitry Demenchuk (http:&#x2f;&#x2f;demenchuk.me)</string>
+  <string>Marlos Irapuan</string>
   <key>name</key>
-  <string>RailsCasts</string>
+  <string>RailsCasts Plus Theme</string>
   <key>semanticClass</key>
   <string>theme.dark.railscasts</string>
   <key>settings</key>
@@ -323,19 +323,6 @@
         <string>#990000</string>
         <key>foreground</key>
         <string>#FFFFFF</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>String interpolation</string>
-      <key>scope</key>
-      <string>constant.character.escaped, constant.character.escape, string source, string source.ruby</string>
-      <key>settings</key>
-      <dict>
-        <key>fontStyle</key>
-        <string></string>
-        <key>foreground</key>
-        <string>#519F50</string>
       </dict>
     </dict>
     <dict>
