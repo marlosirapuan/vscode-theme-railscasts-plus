@@ -74,6 +74,17 @@
     </dict>
     <dict>
       <key>name</key>
+      <string>Function argument</string>
+      <key>scope</key>
+      <string>variable.parameter</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>italic</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
       <string>Class (definition)</string>
       <key>scope</key>
       <string>entity.name</string>

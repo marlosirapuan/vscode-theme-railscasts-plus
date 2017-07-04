@@ -2,7 +2,7 @@
     "name": "vscode-theme-railscasts-plus",
     "displayName": "RailsCasts Plus Theme",
     "description": "A theme extension for Visual Studio Code based on RailsCasts",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "marlosirapuan",
     "bugs": {
         "url": "https://github.com/marlosirapuan/vscode-theme-railscasts-plus/issues"

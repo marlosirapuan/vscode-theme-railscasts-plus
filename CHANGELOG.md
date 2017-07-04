@@ -1,3 +1,6 @@
+## 0.0.6
+- Function argument in italic
+
 ## 0.0.5
 - Add icon
 
