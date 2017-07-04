@@ -12,6 +12,7 @@
         "type": "git",
         "url": "https://github.com/marlosirapuan/vscode-theme-railscasts-plus"
     },
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.13.0"
     },
