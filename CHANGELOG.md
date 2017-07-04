@@ -1,3 +1,6 @@
+## 0.0.5
+- Add icon
+
 ## 0.0.4
 - Fix color Variable
 - Fix color Class name
